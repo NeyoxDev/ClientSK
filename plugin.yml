@@ -1,0 +1,5 @@
+name: ClientSK
+author: [NeyoxDev, Sonaah]
+version: 1.0.0
+main: fr.neyox.client.spigot.Main
+depend: [Skript]

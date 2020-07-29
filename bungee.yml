@@ -1,0 +1,4 @@
+name: ClientSK
+author: NeyoxDev
+version: 1.0.0
+main: fr.neyox.client.bungee.BungeeMain
